@@ -1,0 +1,74 @@
+@media(max-width:1400px){  
+}
+@media(max-width:1200px){
+    
+}
+@media(max-width:992px){
+.main-slider__slide_description{
+      font-size: 16px;
+      line-height: 18px;  
+    }
+.main-slider__slide_title{
+    font-size: 22px;
+}  
+.work__list{
+    margin-bottom: 25px;
+}
+.opportunities{
+    padding: 25px 0;
+}
+.opportunities-header__btn{
+    padding: 10px 15px;
+}
+.footer__content{
+    margin-top: 25px;
+}
+.footer__logo{
+    margin-bottom: 25px;
+}
+}
+
+@media(max-width:768px){
+   .header__title{
+       font-size: 45px;
+       margin-bottom: 20px;
+   } 
+   .header__description{
+       font-size: 18px;
+   }
+   .main-slider__slide_title{
+       text-align: center;
+       margin-top: 20px;
+   }
+   .main-slider__controls{
+       display: none;
+   }
+   .works{
+       padding-top: 30px;
+   }
+   .main__title{
+       font-size: 25px;
+   }
+   .main-history__description{
+       font-size: 16px;
+       line-height: 22px;
+   }
+   .works__list .works__list_link{
+       font-size: 14px;
+       padding: 10px 20px;
+   }
+   .works-tab__pane {
+       justify-content: center;
+   }
+   .works-tab{
+   padding: 20px; 
+   margin-top: 10px;   
+   }
+   .opportunities-body{
+       font-size: 16px;
+       line-height: 20px;
+   }
+   .main-history{
+     padding: 30px 0; 
+   }
+}
